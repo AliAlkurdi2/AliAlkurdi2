@@ -1,5 +1,5 @@
 ## Hi, I'm Ali Alkurdi 👋
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellcoders_rounded.gif?raw=true" width= "60%" alt="Welcome"/>
 🎓 Beginner Software Developer  
 💻 Learning Game Development, Web Development & Application Development  
 🧠 Focused on Programming Logic & Problem Solving  
