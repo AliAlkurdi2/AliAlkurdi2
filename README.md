@@ -61,8 +61,8 @@ I will keep updating this section as I complete more projects.
 
 You can connect with me here:
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add later if you create one)
+- GitHub: https://github.com/AliAlkurdi2
+- LinkedIn: www.linkedin.com/in/ali-alkurdi-43128b195
 
 ---
 
